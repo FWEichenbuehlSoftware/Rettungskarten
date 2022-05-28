@@ -2,20 +2,25 @@
 
 <p>
   <a href="http://rk.mb-qr.com/de/" target="_blank">
-    <img src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=25>
+    <img src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=25 width=200>
   </a>
 </p>
 
 <p>
   <a href="http://rk.mb-qr.com/de/240/" target="_blank">
-    <img src="https://img.shields.io/badge/Maybach-blue?style=for-the-badge&logo=appveyor" height=25 width=400>
+    <img src="https://img.shields.io/badge/Maybach-blue?style=for-the-badge&logo=appveyor" height=25 width=200>
+  </a>
+</p>
+
+<p>
+  <a href="http://www.chrysler.de/informationen-fur-rettungskrafte.html" target="_blank">
+    <img src="https://img.shields.io/badge/Chrysler-blue?style=for-the-badge&logo=appveyor" height=25 width=200>
   </a>
 </p>
 
 
-http://rk.mb-qr.com/de/
-http://rk.mb-qr.com/de/240/
-http://www.chrysler.de/informationen-fur-rettungskrafte.html
+
+
 http://www.dodge.de/informationen-fur-rettungskrafte.html
 http://www.lancia.de/mopar/rettungsdatenblaetter
 https://aos.bmwgroup.com/web/oss/service
