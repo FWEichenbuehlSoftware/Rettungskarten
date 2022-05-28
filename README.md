@@ -4,8 +4,11 @@
   <a href="http://rk.mb-qr.com/de/" target="_blank">
     <img src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=40>
   </a>
-  <a href="http://rk.mb-qr.com/de/" target="_blank">
-    <img src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=40>
+</p>
+
+<p>
+  <a href="http://rk.mb-qr.com/de/240/" target="_blank">
+    <img src="https://img.shields.io/badge/Maybach-blue?style=for-the-badge&logo=appveyor" height=40>
   </a>
 </p>
 
