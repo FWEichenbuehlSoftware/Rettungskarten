@@ -2,7 +2,6 @@
 
 
 ## Mercedes Daimler
------
 
 <p align="center">
   <a align="center" href="http://rk.mb-qr.com/de/" target="_blank">
@@ -19,7 +18,14 @@
 
 
 ## VAG
------
+
+<p align="center">
+  <a href="http://rk.mb-qr.com/de/240/" target="_blank">
+    <img src="https://img.shields.io/badge/Maybach-blue?style=for-the-badge&logo=appveyor" height=35>
+  </a>
+</p>
+
+
 
 ## Sonstige
 
