@@ -3,9 +3,12 @@
 
 ## Mercedes Daimler
 
-<a align="center" href="http://rk.mb-qr.com/de/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=35>
-</a>
+
+<p align="center">
+  <a href="http://rk.mb-qr.com/de/240/" target="_blank">
+    <img src="https://img.shields.io/badge/Mercedes-black?style=for-the-badge&logo=appveyor" height=35>
+  </a>
+</p>
 
 <p align="center">
   <a href="http://rk.mb-qr.com/de/240/" target="_blank">
