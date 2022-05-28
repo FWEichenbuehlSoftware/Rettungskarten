@@ -20,7 +20,19 @@ var data = [
         "description": "http://www.lancia.de/mopar/rettungsdatenblaetter"
     },
     {
-        "title": "BMW / AOS Group",
+        "title": "BMW AOS Group",
+        "description": "https://aos.bmwgroup.com/web/oss/service"
+    },
+    {
+        "title": "Mini AOS Group",
+        "description": "https://aos.bmwgroup.com/web/oss/service"
+    },
+    {
+        "title": "BMWI AOS Group",
+        "description": "https://aos.bmwgroup.com/web/oss/service"
+    },
+    {
+        "title": "Rolls Royce AOS Group",
         "description": "https://aos.bmwgroup.com/web/oss/service"
     },
     {
