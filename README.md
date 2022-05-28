@@ -1,6 +1,6 @@
 # Rettungskarten
 
-<p>
+<p align="center">
   <a align="center" href="http://rk.mb-qr.com/de/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=25>
   </a>
