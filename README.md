@@ -2,7 +2,8 @@
 
 <p>
   <a href="http://rk.mb-qr.com/de/" target="_blank">
-    <img src="https://img.shields.io/badge/Maya Autodesk 2022-blue?style=for-the-badge&logo=appveyor" height=50>
+    <img src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=50>
+    <img src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=50>
   </a>
 </p>
 
