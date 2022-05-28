@@ -1,19 +1,19 @@
 # Rettungskarten
 
 <p>
-  <a href="http://rk.mb-qr.com/de/" target="_blank">
+  <a align="center" href="http://rk.mb-qr.com/de/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Mercedes Benz-blue?style=for-the-badge&logo=appveyor" height=25>
   </a>
 </p>
 
 <p>
-  <a href="http://rk.mb-qr.com/de/240/" target="_blank">
+  <a align="center" href="http://rk.mb-qr.com/de/240/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Maybach-blue?style=for-the-badge&logo=appveyor" height=25>
   </a>
 </p>
 
 <p>
-  <a href="http://www.chrysler.de/informationen-fur-rettungskrafte.html" target="_blank">
+  <a align="center" href="http://www.chrysler.de/informationen-fur-rettungskrafte.html" target="_blank">
     <img src="https://img.shields.io/badge/Chrysler-blue?style=for-the-badge&logo=appveyor" height=25>
   </a>
 </p>
