@@ -1,6 +1,6 @@
 var data = [
    {
-      "title":"Mercedes Benz / Daimler",
+      "title":"Mercedes Benz Daimler",
       "description":"http://rk.mb-qr.com/de/"
    },
    {
