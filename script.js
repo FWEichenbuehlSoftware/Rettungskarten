@@ -14,14 +14,16 @@ var app = {
    render: function(){
       app.html.display.innerHTML = ''
       app.data.forEach(function(item){
-         app.html.display.innerHTML += `
-            <div class="item" onclick="window.location.href='${item.description}'">
-               <div class="title">${item.title}</div>
-
-               <div class="description">${item.description}</div>
-               
-
-            </div>
+          app.html.display.innerHTML += `
+            <table class="item" onclick="window.location.href='${item.description}'">
+                <td class="tdicon"><i class="fa fa-file-pdf-o" style="font-size:36px;"></i></td>
+                <td width="100%">
+                    <div>
+                        <div class="title">${item.title}</div>
+                        <div class="description">${item.description}</div>
+                    </div>
+                </td>
+            </table>
          `;
       });
       app.html.items = document.querySelectorAll('.item')

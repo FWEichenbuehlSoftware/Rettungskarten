@@ -24,8 +24,12 @@ body * {
     color: white;
 }
 
+.tdicon {
+    padding: 0px 15px 0px 0px;
+}
+
+
 .container {
-    max-width: 5600px;
     height: 100%;
     margin: auto;
     display: flex;
@@ -33,7 +37,7 @@ body * {
 }
 
 .header {
-    height: 10px;
+    height: 8px;
     background: Red;
 }
 
@@ -93,8 +97,13 @@ body * {
     opacity: 1;
     background: rgba(0, 0, 0, 0.25);
     padding: 10px;
-    animation: opacitize 0.75s;
-    transition: all 0.75s;
+    animation: opacitize 0.25s;
+    transition: all 0.25s;
+}
+
+.display .item:hover {
+    background: rgba(0, 0, 0, 0.5);
+    outline: 2px solid Red;
 }
 
 .display .item .title {
