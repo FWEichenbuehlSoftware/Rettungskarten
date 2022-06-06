@@ -15,15 +15,17 @@ var app = {
       app.html.display.innerHTML = ''
       app.data.forEach(function(item){
           app.html.display.innerHTML += `
-            <table class="item" onclick="window.location.href='${item.description}'">
-                <td class="tdicon"><i class="fa fa-file-pdf-o" style="font-size:36px;"></i></td>
-                <td width="100%">
-                    <div>
-                        <div class="title">${item.title}</div>
-                        <div class="description">${item.description}</div>
-                    </div>
-                </td>
-            </table>
+            <div class="item">
+                <table onclick="window.location.href='${item.description}'">
+                    <td class="tdicon"><i class="fa fa-file-pdf-o" style="font-size:36px;"></i></td>
+                    <td width="100%">
+                        <div>
+                            <div class="title">${item.title}</div>
+                            <div class="description">${item.description}</div>
+                        </div>
+                    </td>
+                </table>
+            </div>
          `;
       });
       app.html.items = document.querySelectorAll('.item')

@@ -1,7 +1,7 @@
 html, body {
     padding: 0px;
     margin: 0px;
-    background: #677;
+    background: #282c35;
     font-family: "Ubuntu", sans-serif;
     color: #FFF;
 }
@@ -36,8 +36,8 @@ body * {
     flex-direction: column;
 }
 
-.header {
-    height: 8px;
+.divider {
+    height: 3px;
     background: Red;
 }
 
@@ -47,6 +47,7 @@ body * {
     box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25);
     z-index: 10;
     position: relative;
+
 }
 
 .search .input {
@@ -77,16 +78,14 @@ body * {
     bottom: -24px;
     right: 0px;
     color: white;
-    background: rgba(0, 0, 0, 0.25);
     padding: 5px 10px;
     border-radius: 0px 0px 0px 4px;
     font-size: 12px;
-    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
 }
 
 .display {
     flex: 1;
-    background: #222;
+    background: #252527;
     overflow-y: auto;
 }
 
@@ -95,7 +94,6 @@ body * {
     max-height: 80px;
     overflow: hidden;
     opacity: 1;
-    background: rgba(0, 0, 0, 0.25);
     padding: 10px;
     animation: opacitize 0.25s;
     transition: all 0.25s;
