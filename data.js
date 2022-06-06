@@ -8,6 +8,14 @@
         "description":"http://rk.mb-qr.com/de/240/"
     },
     {
+        "title": "Mercedes Benz Trucks (Unimog U5000)",
+        "description": "https://rk.mb-qr.com/de/437.430/"
+    },
+    {
+        "title": "Mercedes Benz Trucks (Unimog U4023/5023)",
+        "description": "https://rk.mb-qr.com/de/437.437/"
+    },
+    {
         "title": "Chrysler",
         "description": "http://www.chrysler.de/informationen-fur-rettungskrafte.html"
     },
@@ -230,5 +238,37 @@
     {
         "title": "Volvo",
         "description": "https://www.volvocars.com/de/zubehoer-und-services/dokumente-und-hilfe/rettungsleitfaeden"
+    },
+    {
+        "title": "Iveco Daily 2012",
+        "description": "https://www.iveco.com/Germany/collections/catalogues/Documents/2016/DAILY/Rettungskarten_Daily_MY2012.pdf"
+    },
+    {
+        "title": "Carado",
+        "description": "https://carado.com/de/de/meincarado/rundumsfahrzeug/rettungskarten"
+    },
+    {
+        "title": "Fuso Canter TD Typ 467",
+        "description": "https://rk.mb-qr.com/de/467.0/"
+    },
+    {
+        "title": "Fuso Canter Typ 468",
+        "description": "https://rk.mb-qr.com/de/468.0/"
+    },
+    {
+        "title": "Fuso Canter Typ 468",
+        "description": "https://rk.mb-qr.com/de/468.4/"
+    },
+    {
+        "title": "Fuso e-Canter Typ 468",
+        "description": "https://rk.mb-qr.com/de/468.525/"
+    },
+    {
+        "title": "DAF Trucks",
+        "description": "https://www.daftrucks.de/-/media/files/document-library/emergency-response-guides/xf-euro-6/daf-xf-emergency-reponse-guide-xf-euro-6-pub00778-1-de.pdf"
+    },
+    {
+        "title": "Scania",
+        "description": "https://www.scania.com/content/dam/scanianoe/market/master/pdf/w_wsm000106de-DE03.pdf"
     }
 ]
