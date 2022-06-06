@@ -22,6 +22,7 @@ var app = {
                         <div>
                             <div class="title">${item.title}</div>
                             <div class="description">${item.description}</div>
+                            <div class="description">${item.typ}</div>
                         </div>
                     </td>
                 </table>
