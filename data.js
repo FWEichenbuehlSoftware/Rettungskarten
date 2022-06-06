@@ -16,7 +16,7 @@
         "typ": "🚗 PKW / Transporter"
     },
     {
-        "title": "Astonmartin",
+        "title": "Aston Martin",
         "description": "https://www.astonmartin.com/rescuesheets",
         "typ": "🚗 PKW / Transporter"
     },
@@ -303,7 +303,7 @@
     {
         "title": "CS Reisemobile",
         "description": "https://www.cs-reisemobile.de/de/wohnmobile-service/rettungskarten.htm",
-        "typ": "🚗 PKW / Transporter"
+        "typ": "🚙 Wohnmobil"
     },
     {
         "title": "Cupra",
@@ -329,7 +329,7 @@
     {
         "title": "Dethleffs",
         "description": "https://www.dethleffs.de/infos/rettungskarten/rettungskarten/modelljahr-2021/",
-        "typ": "🚗 PKW / Transporter"
+        "typ": "🚙 Wohnmobil"
     },
     {
         "title": "Deutsche Post",
@@ -339,7 +339,7 @@
     {
         "title": "DS Automobiles",
         "description": "https://www.dsautomobiles.de/ds-services/rettungsdatenblaetter.html",
-        "typ": "🚗 PKW / Transporter"
+        "typ": "🚙 Wohnmobil"
     },
     {
         "title": "Doge",
@@ -508,7 +508,7 @@
     {
         "title": "Mercedes Benz Trucks (Unimog U5000)",
         "description": "https://rk.mb-qr.com/de/437.430/",
-        "typ": "🚗 PKW / Transporter"
+        "typ": "🚛 LKW"
     },
     {
         "title": "Mercedes Benz Trucks (Unimog U4023/5023)",
