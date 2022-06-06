@@ -20,6 +20,103 @@
         "title": "Audi",
         "description": "https://www.audi.de/de/brand/de/beratung-kauf/sonderabnehmer/sonderfahrzeuge/einsatzfahrzeuge/leitfaden-fuer-rettungsdienste.html"
     },
+    {
+        "title": "Airbus",
+        "description": "https://www.airbus.com/en/airport-operations-and-technical-data/aircraft-rescue-firefighting-charts"
+    },
+    {
+        "title": "Airbus A300",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A300-Jun-2007.pdf"
+    },
+    {
+        "title": "Airbus A300F4-600",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A300F4-600-Jun-2017.pdf"
+    },
+    {
+        "title": "Airbus A300-600ST",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A300-600ST-Jun-2007.pdf"
+    },
+    {
+        "title": "Airbus A300-600",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A300-600-Jun-2007.pdf"
+    },
+    {
+        "title": "Airbus A310",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A310.pdf"
+    },
+    {
+        "title": "Airbus A318",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A318.pdf"
+    },
+    {
+        "title": "Airbus A319",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A319.pdf"
+    },
+    {
+        "title": "Airbus A319 neo",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A319.pdf"
+    },
+    {
+        "title": "Airbus A320",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A320.pdf"
+    },
+    {
+        "title": "Airbus A320 neo",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A320.pdf"
+    },
+    {
+        "title": "Airbus A321",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A321.pdf"
+    },
+    {
+        "title": "Airbus A321 neo",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A321.pdf"
+    },
+    {
+        "title": "Airbus A321 neo ACF",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A321-ACF.pdf"
+    },
+    {
+        "title": "Airbus A330-200/-300",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A330-200-300.pdf"
+    },
+    {
+        "title": "Airbus A330-200F",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A330-200F.pdf"
+    },
+    {
+        "title": "Airbus A330-700L",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A330-700L.pdf"
+    },
+    {
+        "title": "Airbus A330.800/-900",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A330-800-900.pdf"
+    },
+    {
+        "title": "Airbus A340-200/-300",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Airbus-Commercial-Aircraft-ARFC-A340-200-300-Jan-2017.pdf"
+    },
+    {
+        "title": "Airbus A340-500",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Airbus-Commercial-Aircraft-ARFC-A340-500-Jan-2017.pdf"
+    },
+    {
+        "title": "Airbus A340-600",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A340-600-Jan-2017.pdf"
+    },
+    {
+        "title": "Airbus A340-900",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-350_900.pdf"
+    },
+    {
+        "title": "Airbus A340-1000",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-350_1000.pdf"
+    },
+    {
+        "title": "Airbus A380",
+        "description": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-11/Airbus-Commercial-Aircraft-ARFC-A380-Dec-2015.pdf"
+    },
+    
     //--- B --------------------------------------------------------------------------------------------------------------------------
     {
         "title": "Bentley",
@@ -33,6 +130,99 @@
         "title": "BMWI AOS Group",
         "description": "https://aos.bmwgroup.com/web/oss/service"
     },
+    {
+        "title": "Boeing",
+        "description": "https://www.boeing.com/commercial/airports/rescue_fire.page"
+    },
+    {
+        "title": "Boeing 707",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff707.pdf"
+    },
+    {
+        "title": "Boeing 717",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff717.pdf"
+    },
+    {
+        "title": "Boeing 720",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff720.pdf"
+    },
+    {
+        "title": "Boeing 727",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff727.pdf"
+    },
+    {
+        "title": "Boeing 737",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff737.pdf"
+    },
+    {
+        "title": "Boeing 737-MAX",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff737max.pdf"
+    },
+    {
+        "title": "Boeing 747",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff747.pdf"
+    },
+    {
+        "title": "Boeing 757",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff757.pdf"
+    },
+    {
+        "title": "Boeing 767",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff767.pdf"
+    },
+    {
+        "title": "Boeing 767-2C",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff7672c.pdf"
+    },
+    {
+        "title": "Boeing 777",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff777.pdf"
+    },
+    {
+        "title": "Boeing 787",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arff787.pdf"
+    },
+    {
+        "title": "Boeing Douglas DC-3",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffdc3.pdf"
+    },
+    {
+        "title": "Boeing Douglas DC-6",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffdc6.pdf"
+    },
+    {
+        "title": "Boeing Douglas DC-7",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffdc7.pdf"
+    },
+    {
+        "title": "Boeing Douglas DC-8",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffdc8.pdf"
+    },
+    {
+        "title": "Boeing Douglas DC-9",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffdc9.pdf"
+    },
+    {
+        "title": "Boeing Douglas DC-10",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffdc10.pdf"
+    },
+    {
+        "title": "Boeing McDonnell Douglas MD-11",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffmd11.pdf"
+    },
+    {
+        "title": "Boeing McDonnell Douglas MD-80",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffmd80.pdf"
+    },
+    {
+        "title": "Boeing McDonnell Douglas MD-90",
+        "description": "https://www.boeing.com/resources/boeingdotcom/commercial/airports/arff/arffmd90.pdf"
+    },
+    {
+        "title": "Bombardier Aircraft",
+        "description": "https://customer.aero.bombardier.com/webd/BAG/CustSite/BRAD/RACSDocument.nsf/vwWebPage/QuickLinks_EmergencyDocs?OpenDocument"
+    },
+
     //--- C --------------------------------------------------------------------------------------------------------------------------
     {
         "title": "Carado",
