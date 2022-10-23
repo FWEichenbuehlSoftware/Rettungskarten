@@ -174,6 +174,113 @@
         "typ": "✈️ Flugzeug",
         "icon": "🚗"
     },
+    {
+        "title": "Aufzug Kone Monospace I und II Kurzanleitung",
+        "description": "https://www.aufzugdatenbank.at/files/kone/kone_monospace_kurzanleitung.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Kone Monospace I und II Langversion",
+        "description": "https://www.aufzugdatenbank.at/files/kone/kone_monospace_i_ii_lang.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Thyssenkrupp Synergy Spirit",
+        "description": "https://www.aufzugdatenbank.at/files/thyssenkrupp/thyssenkrupp_synergy_und_spirit.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Thyssenkrupp Simpact",
+        "description": "https://www.aufzugdatenbank.at/files/thyssenkrupp/thyssenkrupp_simpact.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Thyssenkrupp Notbefreiung",
+        "description": "https://www.aufzugdatenbank.at/files/thyssenkrupp/thyssenkrupp_notbefreiung.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug OTIS VFMRL",
+        "description": "https://www.aufzugdatenbank.at/files/otis/otis_vfmrl.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug OTIS Gen 2 cr",
+        "description": "https://www.aufzugdatenbank.at/files/otis/otis_gen2_cr.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug OTIS Gen2 Comfort Flex",
+        "description": "https://www.aufzugdatenbank.at/files/otis/otis_gen2_comfort_flex.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug OTIS Gen2",
+        "description": "https://www.aufzugdatenbank.at/files/otis/otis_gen2.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug OTIS FMI MRO",
+        "description": "https://www.aufzugdatenbank.at/files/otis/otis_fmi_mro.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+
+
+
+    {
+        "title": "Aufzug Schindler Smart alt",
+        "description": "https://www.aufzugdatenbank.at/files/schindler/schindler_smart_alt.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Schindler Smart",
+        "description": "https://www.aufzugdatenbank.at/files/schindler/schindler_smart.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Schindler S5500",
+        "description": "https://www.aufzugdatenbank.at/files/schindler/schindler_s5500.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Schindler S3300",
+        "description": "https://www.aufzugdatenbank.at/files/schindler/schindler_s3300.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Schindler Mobile",
+        "description": "https://www.aufzugdatenbank.at/files/schindler/schindler_mobile.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Schindler EuroLift",
+        "description": "https://www.aufzugdatenbank.at/files/schindler/schindler_eurolift.pdf",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+    {
+        "title": "Aufzug Alle",
+        "description": "https://www.aufzugdatenbank.at/",
+        "typ": "🛗 Aufzug",
+        "icon": "🚗"
+    },
+
+    
     
     //--- B --------------------------------------------------------------------------------------------------------------------------
     {
